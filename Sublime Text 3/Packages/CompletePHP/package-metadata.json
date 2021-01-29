@@ -1,0 +1,1 @@
+{"description": "Sublime Text add on that provides autocomplete for PSR4 compliant PHP classes, and inline docs ", "url": "https://github.com/desean1625/CompletePHP", "sublime_text": "*", "platforms": ["*"], "dependencies": [], "version": "1.0.1"}
